@@ -4,8 +4,11 @@
 Python_Django_postgresql_PetAdoption
 
 py --version
+
 Python 3.7.5
+
 python -m django --version
+
 3.0.3
 
 # settings.py
