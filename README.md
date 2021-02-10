@@ -27,6 +27,7 @@ DATABASES = {
 # CREATE DATABASE refugio
 
 #psycopg2
+
 pip install pyscopg2
 
 DATABASES = {
