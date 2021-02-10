@@ -44,15 +44,21 @@ DATABASES = {
 
 
 manage.py makemigrations
+
 manage.py migrate
 
 # Create User
+
 python manage.py createsuperuser
+
 # enter user/key:
+
 admin
+
 mykey
 
 python manage.py runserver
+
 http://127.0.0.1:8000/
 
 http://127.0.0.1:8000/admin
